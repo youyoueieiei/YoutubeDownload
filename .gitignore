@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Downloads / local output
+downloads/
+*.mp4
+*.mkv
+*.webm
+*.part
+*.ytdl
+
+# PyInstaller
+build/
+dist/
+release/
+*.spec
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.zip
